@@ -47,15 +47,15 @@ nav.navbar{
 }
 
 .slide1{
-	background-image:url(/..wood-2.jpg);
+	background-image:url(../restaurant/wood-2.jpg);
 }
 
 .slide2{
-	background-image:url(/..restaurant-2.jpg);
+	background-image:url(../restaurant/restaurant-2.jpg);
 }
 
 .slide3{
-	background-image:url(/..farm-2.jpg);
+	background-image:url(../restaurant/farm-2.jpg);
 }
 
 .main_logo{
@@ -125,7 +125,7 @@ nav.navbar{
 
 #review{
 	height:200px;
-	background-image:url(/..food_review.jpg);
+	background-image:url(../restaurant/food_review.jpg);
 	background-size:cover;
 	background-position: bottom;
 	background-attachment: fixed;
