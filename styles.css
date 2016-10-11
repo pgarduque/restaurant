@@ -125,7 +125,7 @@ nav.navbar{
 
 #review{
 	height:200px;
-	background-image:url(../img/food_review.jpg);
+	background-image:url(food_review.jpg);
 	background-size:cover;
 	background-position: bottom;
 	background-attachment: fixed;
